@@ -1,0 +1,10 @@
+-dashboard.php es el archivo del CRUD al cual accede el administrador.
+
+-user_page.php es el archivo que solamente va a ver el usuario
+
+-¿Por qué lo terminé haciendo así? Antes de que se asignara el
+proyecto final con sus características, yo ya había hecho un CRUD con
+Bootstrap. El problema vino cuando le tuve que integrar inicios de sesión,
+donde por poquito termino haciendo spaghetti de código. En el proceso
+no sólo encontré errores, sino que también me encontré a mí mismo. Al final
+la página funciona que es lo importante.
